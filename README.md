@@ -28,5 +28,8 @@ Complete solution of the animal monitoring behavior.
 ## Tag acceleration
 Files in .csv format with ';' as the delimiter.
 
+Example
+
 | CowNo | DateTime | Ax | Ay | Az | Reference behavior |
 |-------|----------|----|----|----|--------------------|
+| 1234 | 2020-01-01 11-25-30 | 500 | 600 | -700 | Standing |
