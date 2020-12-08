@@ -4,7 +4,9 @@ A database collection of farm animal behaviour phenotypes for modelling explorat
 
 # Cows
 ## Cow behavior
-
+| link | Size | Variables | Model | Paper |
+|------|------|:---------:|-------|-------|
+| https://zenodo.org/record/3981400 | 40Gb | Frames | Deep learning | in review |
 ## Cow indoor localization
 | link | Size | Variables | Model | Paper |
 |------|------|:---------:|-------|-------|
