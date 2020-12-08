@@ -4,11 +4,11 @@ A database collection of farm animal behaviour phenotypes for modelling explorat
 
 # Cows
 ## Cow behavior
-| link | Size | Variables | Paper | Model |
-|------|------|:---------:|-------|-------|
-| https://zenodo.org/deposit/3900340 | 50Gb |
-## Cow indoor localization
 
+## Cow indoor localization
+| link | Size | Variables | Model | Paper |
+|------|------|:---------:|-------|-------|
+| https://zenodo.org/deposit/3900340 | 50Gb | RSS x 10 stations | Trilateration |  |
 ## Cow outdoor localization
 
 # Pigs
