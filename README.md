@@ -27,5 +27,6 @@ Complete solution of the animal monitoring behavior.
 # Suggestions for the data formats
 ## Tag acceleration
 Files in .csv format with ';' as the delimiter.
-| CowNo | DateTime | Ax | Ay | Az | Reference behavior |
 
+| CowNo | DateTime | Ax | Ay | Az | Reference behavior |
+|------|------|:---------:|-------|-------|
