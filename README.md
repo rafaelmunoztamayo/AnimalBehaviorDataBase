@@ -15,4 +15,4 @@ A database collection of farm animal behaviour phenotypes for modelling explorat
 ## Cow outdoor localization
 
 # Pigs
-## Pigs behavio
+## Pigs behavior
