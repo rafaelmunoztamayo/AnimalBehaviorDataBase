@@ -29,4 +29,4 @@ Complete solution of the animal monitoring behavior.
 Files in .csv format with ';' as the delimiter.
 
 | CowNo | DateTime | Ax | Ay | Az | Reference behavior |
-|------|------|:---------:|-------|-------|
+|-------|----------|----|----|----|--------------------|
