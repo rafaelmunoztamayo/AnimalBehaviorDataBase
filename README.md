@@ -2,7 +2,7 @@
 A database collection of farm animal behaviour phenotypes for modelling exploration.
 
 # Goal
-Complete solution of the animal monitoring behavior.
+Complete solution of the animal monitoring behavior problem.
 
 ## Methods
 - Development generic machine learning models based on different data sets.
