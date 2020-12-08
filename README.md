@@ -6,6 +6,7 @@ Complete solution of the animal monitoring behavior.
 
 ## Methods
 Development generic machine learning models based on different data sets.
+
 Concentration of efforts for solving of specific problems by collaboration.
 
 # Cows
