@@ -16,3 +16,6 @@ A database collection of farm animal behaviour phenotypes for modelling explorat
 
 # Pigs
 ## Pigs behavior
+
+# Suggestions for the data formats
+
